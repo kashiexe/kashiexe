@@ -14,3 +14,11 @@ As stated earlier though, there are projects that I haven't published yet, such 
 
 ### Contact & Website 📩
 working on the website, you can contact me through my discord though (kashidev) :P
+![under construction (found on reddit r/pixelart https://www.reddit.com/r/PixelArt/comments/14kqwpu/under_construction/)](https://preview.redd.it/under-construction-v0-g32eq22eum8b1.png?width=1547&format=png&auto=webp&s=ea96e2944aeeac06569b12124771afa9ee5ae85e)
+
+### Mishi's Progress (Current Project) 🌟
+Here's a quick showcase of what I'm currently doing/already did for mishi, keep in mind mishi is a compiled programming language so you'll see a LOT of compiler-related goals. (This is entirely made in **C++** btw)
+
+#### Part 1 - AST Parser 🌳
+- [x] Tokenizer >> Tokenizes source code into a list of differentiating tokens (13/15)
+- [ ] UParser >> Applies syntax-related rules into the tokens, converting them into nodes that each have a different type of purpose, pushing them in a tree type of thing.
