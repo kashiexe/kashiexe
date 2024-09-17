@@ -7,6 +7,9 @@
 - 🌌 I love studying **AstroPhysics** and I'd love to be able to study it further on a job within that branch in the future.
 - 📚 Currently learning **LLVM** and compiler development for a project I'm working on called ミシ（mishi）.
 - 🌍 Currently Learning **Japanese** and **German** as well, planning to study CS in Germany in about a year and maybe even work in Japan in the future!
+  
+**tldr:** 17, on a gap year studying german for university, C++ and JS experience, currently working on a project
+
 
 ### Projects to Showcase 📋
 As of right now, the projects in showcase are pinned, but in the future I'm planning on putting non-open source projects displayed in this section as well.
