@@ -16,7 +16,7 @@ As of right now, the projects in showcase are pinned, but in the future I'm plan
 As stated earlier though, there are projects that I haven't published yet, such as mishi, but once the first version is finished, it will be published :)
 
 ### Contact & Website 📩
-working on the website, you can contact me through my discord though (kashidev) :P
+working on the website, you can contact me through my discord though (kashidev) :P (if you do decide to contact me, please say you come from github so I know you're not one of those nitro gift beggars or something)
 ![under construction](https://preview.redd.it/under-construction-v0-g32eq22eum8b1.png?width=1547&format=png&auto=webp&s=ea96e2944aeeac06569b12124771afa9ee5ae85e)
 (credit where it's due - https://www.reddit.com/r/PixelArt/comments/14kqwpu/under_construction/)
 
