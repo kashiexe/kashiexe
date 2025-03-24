@@ -11,8 +11,8 @@
 **tldr:** 18, on a gap year studying german for university, C++ and JS experience.
 
 ### Projects to Showcase 📋
-As of right now, the projects in showcase are pinned, but in the future I'm planning on putting non-open source projects displayed in this section as well.
-As stated earlier though, there are projects that I haven't published yet, such as mishi, but once the first version is finished, it will be published :)
+As of right now, the projects in showcase are pinned (not so impressive projects, I know). However, in the future, I'm planning on publicising more projects so they can be displayed in this section as well.
+There are some projects that I haven't published yet (definitely not because I'm lazy lol), but they will be published once they are decently completed or well enough for so. :)
 
 ### Contact & Website 📩
 working on the website, you can contact me through my discord though (kashidev) :P (if you do decide to contact me, please say you come from github so I know you're not one of those nitro gift beggars or something)
