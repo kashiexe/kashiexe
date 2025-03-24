@@ -4,9 +4,9 @@
 - 👨‍💻 I'm currently an 18 year old doing a gap year for university, the reason for it is listed in the last bulletpoint!
 - 🌐 I'm a **Node.js and C++ Developer** with experience on a big diversity of projects.
 - 🎮 I'm also kinda big into games, so if you ever need someone to play with, you can always contact me.
-- 🌌 I love studying **AstroPhysics** and I'd love to be able to study it further on a job within that branch in the future.
-- 📚 Currently learning **LLVM**, compiler development and other stuff :).
-- 🌍 Currently Learning **Japanese** and **German** as well, planning to study CS in Germany in about a year and maybe even work in Japan in the future!
+- 🌌 I love studying **AstroPhysics** and would love to work on a project that includes something to do with that in the future (maybe like a simulator or something).
+- 📚 Currently learning **LLVM**, compiler development, AI development and some other interesting stuff :).
+- 🌍 Currently Learning **Japanese** and **German** as well, planning to study CS in Germany this year!
   
 **tldr:** 18, on a gap year studying german for university, C++ and JS experience.
 
