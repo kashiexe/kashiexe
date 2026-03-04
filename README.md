@@ -5,7 +5,7 @@
 - 🌐 I'm a **Node.js and C++ Developer** with experience on various diverse projects. (Many are still experimental or just educational, thus private)
 - 🎮 I'm also kind of big into games, so if you ever want someone to play with, you can always contact me.
 - 🌌 I love studying **AstroPhysics** and **Quantum Computing** and would love to work on projects involving that in the future!
-- 📚 Currently studying AI/ML (algs), libuv event loop (the more annoying things), concurrency (in a "lower-level") and some other interesting stuff :)
+- 📚 Currently studying IR Optimizations, Concurrency (in a "lower-level", closer to the metal type of thing) and some other interesting stuff :)
 - 🌍 Passionate about **Japanese** and **German** as well! (currently N4 & A2.2 respectively)
   
 **tldr:** 19, studying CS in Germany, C++ and JS experience.
@@ -24,12 +24,13 @@ There are also other tools & "soft skills" that I didn't include since I find it
 
 ### Projects to Showcase 📋
 Currently, most of my projects are WIP and experimental so they are still private. However, here's a quick rundown on the projects I'm working on:
-- [flux] Custom compiled programming language, aimed for low level control with very flexible syntax. v0.2.1 as of 13/01, plans on releasing the first stable version (v1.0) early of march.
-- [loom] Concurrency monitoring tool used to showcase different threads and processes with a nice TUI (made in C). v0.1.7 as of 13/01, plans on releasing the first stable version (v1.0) early of april.
+- [Cerne] Custom compiled programming language, aimed for low level control with very flexible syntax. Plans on releasing the first stable version (v1.0) around september of 2026.
+- [loom] Concurrency monitoring tool used to showcase different threads and processes with a nice TUI (made in C/Cerne). Cerne's first stable version must be completed first before this project starts, but it should start around end of 2026 and end at around mid 2027.
+- [KAOS] My own Operating System, I'm planning this to be my "magnum opus" in a sense. It's going to be made with C/Assembly initially (obviously) and implement more languages the more it develops. There is no "promised" date for a release version on this one since it's such a huge project, but I have worked on bootloaders and very beginner-stage kernels so you might be able to see a repo called "KAOS" sometimes soon! (and by soon I mean maybe this year LOL)
 
-There will be other ones of course, but these ones are the ones I'm most hyped for and working on the most!
+Anyways, there _will_ be others, of course, but these are the ones I'm most hyped for and working on the most!
 
 ### Contact & Website 📩
-Also working on my website, however, you can contact me through my discord (kashidev) if you have any questions :D (PS: if you do decide to contact me, please let me know you come from github so I know you're not a "nitro gift beggars" or a scammer or something like that)
+Also working on my website, however, you can contact me through my discord (kashidev) if you have any questions :) (PS: if you do decide to contact me, please let me know you come from github first!)
 ![under construction](https://preview.redd.it/under-construction-v0-g32eq22eum8b1.png?width=1547&format=png&auto=webp&s=ea96e2944aeeac06569b12124771afa9ee5ae85e)
 (credit where it's due - https://www.reddit.com/r/PixelArt/comments/14kqwpu/under_construction/)
