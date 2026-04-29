@@ -23,12 +23,7 @@ Even though people measure skill level differently (since it's relative), for th
 There are also other tools & "soft skills" that I didn't include since I find it somewhat useless to rate.
 
 ### Projects to Showcase 📋
-Currently, most of my projects are WIP and experimental so they are still private. However, here's a quick rundown on the projects I'm working on:
-- [Cerne] Custom compiled programming language, aimed for low level control with very flexible syntax. Plans on releasing the first stable version (v1.0) around september of 2026.
-- [loom] Concurrency monitoring tool used to showcase different threads and processes with a nice TUI (made in C/Cerne). Cerne's first stable version must be completed first before this project starts, but it should start around end of 2026 and end at around mid 2027.
-- [KAOS] My own Operating System, I'm planning this to be my "magnum opus" in a sense. It's going to be made with C/Assembly initially (obviously) and implement more languages the more it develops. There is no "promised" date for a release version on this one since it's such a huge project, but I have worked on bootloaders and very beginner-stage kernels so you might be able to see a repo called "KAOS" sometimes soon! (and by soon I mean maybe this year LOL)
-
-Anyways, there _will_ be others, of course, but these are the ones I'm most hyped for and working on the most!
+Currently, most of my projects are WIP and/or experimental, so they haven't been published, however, you should expect to begin seeing more projects popping up soon enough :)
 
 ### Contact & Website 📩
 Also working on my website, however, you can contact me through my discord (kashidev) if you have any questions :) (PS: if you do decide to contact me, please let me know you come from github first!)
