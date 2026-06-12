@@ -26,6 +26,6 @@ There are also other tools & "soft skills" that I didn't include since I find it
 Currently, most of my projects are WIP and/or experimental, so they haven't been published, however, you should expect to begin seeing more projects popping up soon enough :)
 
 ### Contact & Website 📩
-Also working on my website, however, you can contact me through my discord (kashidev) if you have any questions :) (PS: if you do decide to contact me, please let me know you come from github first!)
+Also working on my website, however, you can contact me through my gmail account (contactkashidev@gmail.com) (PS: if you do decide to contact me, please let me know you come from github first!)
 ![under construction](https://preview.redd.it/under-construction-v0-g32eq22eum8b1.png?width=1547&format=png&auto=webp&s=ea96e2944aeeac06569b12124771afa9ee5ae85e)
 (credit where it's due - https://www.reddit.com/r/PixelArt/comments/14kqwpu/under_construction/)
