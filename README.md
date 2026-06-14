@@ -23,7 +23,7 @@ Here's a breakdown of the languages and technologies I work with, along with my 
 Also familiar with various dev tools, Git workflows, and systems concepts that aren't listed here.
 
 ### Projects to Showcase 📋
-Although many of my low-level and experimental projects are being built in private, you can still check out some of my open-source passion projects, mainly :)
+Although many of my low-level and experimental projects are being built in private, you can still check out some of my open-source passion projects, mainly:
 -  Cerne – A custom systems programming language with a fully owned compiler ecosystem built from scratch. It's currently under development (finishing the parser and focusing on SEMA before moving on to IR)
 -  XSEF – Very simple, terminal-based, CHIP8 emulator based on the modern version (some opcode shenanigans). Although I'm not actively developing it, I will still update xsef to include register states, logging and, of course, Windows support.
 
