@@ -11,16 +11,16 @@
 **tldr:** 19, studying CS in Germany, C++ and JS experience.
 
 ### Quick Overview on Skills 🛠️
-Even though people measure skill level differently (since it's relative), for the sake of simplicity, I'm just going to use the labels "Proficient", "Advanced", "Competent" and "Familiar" and the notes will explain why I chose that label. Please also remember every assigned level was off of pure opinion with no ego intended, I try to humble myself as much as possible while also keeping things somewhat realistic to my CURRENT situation. :)
+Here's a breakdown of the languages and technologies I work with, along with my current focus and experience levels for each of them.
 | What | Level | Notes |
 | ---  | ----  | ----  |
-| NodeJS | Proficient | I can use NodeJS for a wide variety of projects and am largely comfortable using it. I mainly use NodeJS (or TS) for personal/esoteric projects. |
-| C++ | Advanced | I'm improving everyday & have decent experience in very specific domains. My goal is to use C++ professionally in the future though. |
-| C | Competent | Most of my C experience comes from University so far. I haven't worked on any major projects with C. |
-| Python | Competent | I've briefly worked on crypto related projects, and also some light game development in the past. However, it's been a couple of years since I've touched python so I'm very rusty nowadays and would need a very strong push to get back on my feet. |
-| Databases | Competent | I have worked extensively with MongoDB and I'm on the process of making a Database of my own! I've also studied a lot how Databases work, DB properties, techniques, ... however, I think I should still humble myself here since this is not exactly my area of expertise. |
+| NodeJS | Advanced | Highly comfortable. I primarily use NodeJS and TypeScript for complex personal applications and esoteric projects. |
+| C++ | Advanced | Strong experience in specialized, low-level domains. Continuously deepening my knowledge with the goal of coding in C++ professionally. |
+| C | Competent | Solid foundational knowledge, primarily built through academic coursework and university projects. |
+| Databases | Competent | Deep interest in database internals, properties, and architectures. Experienced with MongoDB and also interested in building a custom database from scratch. |
+| Python | Familiar | Past experience includes crypto-related scripts and light game development. Not my current primary focus, but capable of picking it back up quickly. |
 
-There are also other tools & "soft skills" that I didn't include since I find it somewhat useless to rate.
+Also familiar with various dev tools, Git workflows, and systems concepts that aren't listed here.
 
 ### Projects to Showcase 📋
 Currently, most of my projects are WIP and/or experimental, so they haven't been published, however, you should expect to begin seeing more projects popping up soon enough :)
