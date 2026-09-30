@@ -1,12 +1,12 @@
 ## Hello there, I'm **Kashi** and Welcome to my Profile! 
 ![PFP](https://i.pinimg.com/564x/5a/47/72/5a4772576d1646df2ec383a3df45b9d8.jpg)
 ### About Me ✏️
-- 👨‍💻 I'm a 19 year old (1st year) CS student in Germany.
+- 👨‍💻 I'm a 19 year old (2nd year) CS student in Germany.
 - 🌐 I'm a **Node.js and C++ Developer** with experience on various diverse projects. (Many are still experimental or just educational, thus private)
 - 🎮 I'm also kind of big into games, so if you ever want someone to play with, you can always contact me.
 - 🌌 I love studying **AstroPhysics** and **Quantum Computing** and would love to work on projects involving that in the future!
 - 📚 Currently studying IR Optimizations, Concurrency (in a "lower-level", closer to the metal type of thing) and some other interesting stuff :)
-- 🌍 Passionate about **Japanese** and **German** as well! (currently N4 & A2.2 respectively)
+- 🌍 Passionate about **Japanese** and **German** as well! (currently N4 & B1.1 respectively)
   
 **tldr:** 19, studying CS in Germany, C++ and JS experience.
 
@@ -25,6 +25,7 @@ Also familiar with various dev tools, Git workflows, and systems concepts that a
 ### Projects to Showcase 📋
 Although many of my low-level and experimental projects are being built in private, you can still check out some of my open-source passion projects, mainly:
 -  **Cerne** – A custom systems programming language with a fully owned compiler ecosystem built from scratch. It's currently under active development.
+-  **S2C** - A compiler for another systems programming language with a fully owned compiler ecosystem build from scratch using TypeScript. This compiler was made mainly for 2 reasons: 1 - to guide me through cerne and 2 - as proof for an e2e compiler pipeline for a language in the same family.
 -  **XSEF** – Very simple, terminal-based, CHIP8 emulator based on the modern version (some opcode shenanigans). Although I'm not actively developing it, I will still update xsef to include register states, logging and, of course, Windows support.
 
 *Expect more WIP experiments to pop-up here soon ;)* 
