@@ -33,5 +33,3 @@ Although many of my low-level and experimental projects are being built in priva
 ### Contact & Website 📩
 Although I'm still working on my website, you can FINALLY [visit it here](https://kashi.fyi).
 You can also just [contact me directly through my email](mailto:contact@kashi.fyi) (PS: if you do decide to contact me, please let me know you come from github first!)
-![under construction](https://preview.redd.it/under-construction-v0-g32eq22eum8b1.png?width=1547&format=png&auto=webp&s=ea96e2944aeeac06569b12124771afa9ee5ae85e)
-(credit where it's due - https://www.reddit.com/r/PixelArt/comments/14kqwpu/under_construction/)
